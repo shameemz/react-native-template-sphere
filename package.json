@@ -8,7 +8,7 @@
   "description": "react-native template to target multiple platforms.",
   "repository": {
     "type": "git",
-    "url": "git@github.com:shameemz/react-sphere.git"
+    "url": "git@github.com:shameemz/react-native-template-sphere.git"
   },
   "keywords": [
     "react",
