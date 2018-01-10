@@ -1,0 +1,30 @@
+{
+  "name": "react-native-template-sphere",
+  "version": "0.0.1",
+  "scripts": {
+    "add": "all-contributors add",
+    "generate": "all-contributors generate"
+  },
+  "description": "react-native template to target multiple platforms.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shameemz/react-sphere.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "template",
+    "starter",
+    "sphere",
+    "native",
+    "multiple",
+    "site",
+    "inheritance"
+  ],
+  "author": "Shameem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shameemz/react-sphere"
+  },
+  "homepage": "https://github.com/shameemz/react-sphere/issues"
+}
