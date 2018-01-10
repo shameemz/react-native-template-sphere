@@ -1,11 +1,7 @@
 {
   "name": "react-native-template-sphere",
-  "version": "0.0.1",
-  "scripts": {
-    "add": "all-contributors add",
-    "generate": "all-contributors generate"
-  },
-  "description": "react-native template to target multiple platforms.",
+  "version": "0.0.4",
+  "description": "An architectural concept for making a product under a single codebase for mobile, desktop and VR.",
   "repository": {
     "type": "git",
     "url": "git@github.com:shameemz/react-native-template-sphere.git"
@@ -26,5 +22,5 @@
   "bugs": {
     "url": "https://github.com/shameemz/react-sphere"
   },
-  "homepage": "https://github.com/shameemz/react-sphere/issues"
+  "homepage": "https://github.com/shameemz/react-sphere#readme"
 }
