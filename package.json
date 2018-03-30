@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-sphere",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "An architectural concept for making a product under a single codebase for mobile, desktop and VR.",
   "repository": {
     "type": "git",
